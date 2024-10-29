@@ -1,6 +1,6 @@
 ## CLI Task Tracker
 
-A simple command-line tool to help you manage your tasks, created with Python and Click. The CLI Task Tracker allows you to add, update, delete, list, and manage the progress status of your tasks. Tasks are saved in a JSON file (`data.json`) for persistent storage, making it easy to keep track of tasks between sessions.
+[A simple command-line tool to help you manage your tasks, created with Python and Click. The CLI Task Tracker allows you to add, update, delete, list, and manage the progress status of your tasks. Tasks are saved in a JSON file (`data.json`) for persistent storage, making it easy to keep track of tasks between sessions.](https://roadmap.sh/projects/task-tracker)
 
 ## Features
 
